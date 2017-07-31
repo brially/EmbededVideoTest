@@ -1,4 +1,4 @@
-EmbededVideoTest
+EmbeddedVideoTest
 ================
 
-Testing embedd video providers
+Testing embedded video providers
